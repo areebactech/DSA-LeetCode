@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Arrays;
 
 public class Build_Array_from_Permutation {
