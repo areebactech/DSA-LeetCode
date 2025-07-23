@@ -1,7 +1,5 @@
 package src;
 
-import java.util.Arrays;
-
 public class FlippingImage {
 
     public static int[][] flipAndInvertImage(int[][] image) {
